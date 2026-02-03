@@ -39,8 +39,8 @@ public class FindTargetInRotatedSortedArray
 //		int arr[] = {3,4,5,1,2};
 		int arr[]= {4,5,6,7,0,1,2};
 		//int arr[] = {1,3};
-		int target = 4;
-		System.out.println(FindTarget(arr,target));
+		int target = 2;
+		System.out.println("Min Element At Index : "+FindTarget(arr,target));
 
 	}
 
